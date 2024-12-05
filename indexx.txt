@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ucapan Terima Kasih</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 18px;
+        }
+        .thank-you {
+            margin-top: 30px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terima Kasih, Asprak!</h1>
+    <p>Kami sangat berterima kasih atas dedikasi, kerja keras, dan kesabaran yang telah diberikan selama sesi praktikum. Berkat bimbingan asprak, kami dapat memahami materi dengan lebih baik.</p>
+    <div class="thank-you">🌟 Terima kasih banyak! 🌟</div>
+</body>
+</html>
